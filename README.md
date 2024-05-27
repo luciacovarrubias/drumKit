@@ -8,3 +8,5 @@ A tocar la batería con el teclado
 **Lucia Covarrubias**
 * [LinkedIn](https://www.linkedin.com/in/luciacovarrubias/)
 
+## Vista previa 💽
+- [https://luciacovarrubias.github.io/drumKit/](https://luciacovarrubias.github.io/drumKit/)
