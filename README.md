@@ -11,4 +11,5 @@ A tocar la batería con el teclado
 ## Vista previa 💽
 - [https://luciacovarrubias.github.io/drumKit/](https://luciacovarrubias.github.io/drumKit/)
 
-- ![image](https://github.com/user-attachments/assets/80a3d961-572e-4a6b-b75f-86676a7fc405)
+- ![image](https://github.com/user-attachments/assets/e671f7f9-7535-4418-a199-4f2aa3189bb2)
+
